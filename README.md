@@ -11,12 +11,12 @@
 ![JSON](https://img.shields.io/badge/JSON-Parsing-000000?style=for-the-badge&logo=json&logoColor=white)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439b1a613c5736cfc.gif" width="400">
 </p>
 
 **A lightweight, fast weather application delivering real-time weather data with optimized API integration and clean architecture.**
 
-[Features](#-features) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [API Setup](#-api-setup) • [Screenshots](#-screenshots)
+[Features](#-features) • [Tech Stack](#-tech-stack) • [Installation](#-installation) • [API Setup](#-api-setup) • [Usage](#-usage)
 
 </div>
 
@@ -43,7 +43,7 @@
 
 ## 🎯 Overview
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
+<img align="right" src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/Images/Weather.gif" width="350">
 
 The **Weather Application** is a Python-based desktop application that fetches real-time weather data from the OpenWeatherMap API. Designed with performance and reliability in mind, this application demonstrates expertise in API integration, efficient data processing, error handling, and clean architectural design.
 
@@ -981,6 +981,6 @@ Contributions are welcome! Please follow these steps:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-**Made by Niha Ruksar**
+**Made with ❤️ by Niha Ruksar**
 
 </div>
